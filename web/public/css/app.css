@@ -1,0 +1,16 @@
+.search {
+  background: #12664f;
+}
+
+.nav-item > a:hover,
+.dropdown-item > a {
+  color: #12664f;
+}
+
+.nav-item > a:active {
+  background: #12664f;
+}
+
+.btn.active {
+  border-color: #12664f;
+}
